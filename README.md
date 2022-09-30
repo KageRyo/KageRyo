@@ -1,4 +1,8 @@
 ### Hi there 👋
+我是 影凌KageRyo  
+覺得太麻煩也可以叫我 KRyo 或 K6。  
+Developer@DreamFuture-Studio  
+K6.developer@gmail.com
 
 <!--
 **KageRyo/KageRyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
