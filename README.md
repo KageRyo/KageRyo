@@ -1,20 +1,22 @@
-### Hi there 👋
-我是 影凌KageRyo  
-覺得太麻煩也可以叫我 KRyo 或 K6。  
-Developer@DreamFuture-Studio  
-K6.developer@gmail.com
+# KageRyo Developer 👨‍💻
 
-<!--
-**KageRyo/KageRyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+影凌 KageRyo K6   
+```
+人生和 Coding 一樣，都是從
+print("Hello World");
+開始的。
+```
 
-Here are some ideas to get you started:
+國立臺中科技大學（NUTC）  
+National Taichung University of Science and Technology  
+> 智慧生產 資訊工程 雙修的瘋仔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More K6
+===
++ https://discord.gg/aTMb2EBsBt/  
++ https://github.com/KageRyo/  
++ https://twitter.com/K6Dev/  
+
+Here We Go!
+===
++ k6.developer@gmail.com
