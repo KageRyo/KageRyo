@@ -7,17 +7,16 @@
 `影凌KageRyo` `K6` `KRyo`  
   
 <div align="left">
- <a href="https://paypal.me/baby980103@gmail.com" target="_blank" style="display: inline-block;">
+ <a href="https://paypal.me/baby980103@gmail.com" target="_blank" style="display: inline-block;"></a>
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
                 />
   <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" align="center" />
-</div>  
-<br/> 
-
+</div>
+  
 ![KageRyo](https://cdn.discordapp.com/attachments/845198439109492747/1025400418454483024/KageRyo.png)
-
+  
 ```c
 人生和 Coding 一樣，都是從
 print("Hello World");
