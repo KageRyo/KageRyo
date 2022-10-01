@@ -7,11 +7,11 @@
 `影凌KageRyo` `K6` `KRyo`  
   
 <div align="left">
- <a href="https://paypal.me/baby980103@gmail.com" target="_blank" style="display: inline-block;"></a>
+ <a href="https://paypal.me/15LIVETW" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
-                />
+                /></a>
   <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" align="center" />
 </div>
   
