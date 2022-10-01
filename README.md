@@ -1,9 +1,20 @@
 # KageRyo Developer 👨‍💻
+<h3 align="center">A Student && Developer from Taiwan</h3>  
 
 **我是誰 :**
 `張健勳 CHANG, CHIEN-HSUN`   
 **想這樣叫我也可以 :**
 `影凌KageRyo` `K6` `KRyo`  
+  
+<div align="left">
+ <a href="https://paypal.me/baby980103@gmail.com" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+  <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" align="center" />
+</div>  
+<br/> 
 
 ![KageRyo](https://cdn.discordapp.com/attachments/845198439109492747/1025400418454483024/KageRyo.png)
 
@@ -53,5 +64,3 @@ Link K6
 Mail K6
 ===
 + k6.developer@gmail.com
-
-
