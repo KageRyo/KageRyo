@@ -23,12 +23,14 @@ print("Hello World");
 開始的。
 ```
 目前是大學生一枚，有空的時候會想一些小東西來做，基本上全部都會是開源的Repo，歡迎互相交流交流 ><  
- 
+  
 **使用的語言：**
 + C/C++
 + Java
 + Python  
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KageRyo&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 **喜歡的開發環境：**  
 我通常使用JetBrains的IDE，其他時候會用VScode。  
 
