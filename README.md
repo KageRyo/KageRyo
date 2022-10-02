@@ -63,5 +63,3 @@ Link K6
 Mail K6
 ===
 + k6.developer@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KageRyo&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
