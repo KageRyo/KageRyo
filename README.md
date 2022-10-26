@@ -62,4 +62,4 @@ Link K6
 
 Mail K6
 ===
-+ k6.developer@gmail.com
++ kageryo@coderyo.com
