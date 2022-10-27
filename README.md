@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" align="center" />
 </div>
   
-![KageRyo](https://cdn.discordapp.com/attachments/845198439109492747/1025400418454483024/KageRyo.png)
+![KageRyo](https://cdn.discordapp.com/attachments/845198439109492747/1035157234344267866/Teal_Futuristic_Technology_Facebook_Cover.png)
   
 ```c
 人生和 Coding 一樣，都是從
