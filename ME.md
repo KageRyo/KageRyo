@@ -1,8 +1,23 @@
 ## **張健勳 CHANG, CHIEN-HSUN**
 
+`Developer`, `Programmer`, and `Student`@NUTC, TAICHUNG.  
+```
+總是會在專業領域上盡自己最大能力去協助他人，用心與堅持的毅力面對人生的每一次挑戰。
+```
+
+### 【個人資料】
++ 性別：男
++ 年齡：20
++ 兵役狀態：未役
++ 手機號碼：0977-355-679
++ 電子信箱：kageryo@coderyo.com
++ 現居地址：臺中市北區
+
+---
+
 ### 1. 學歷： 
-+ 國立臺中科技大學智慧生產工程系　　　學士學位
-+ 國立臺中科技大學資訊工程系　　　　　輔系學位
++ 國立臺中科技大學智慧生產工程系　　　學士學位 (日間部在學中)
++ 國立臺中科技大學資訊工程系　　　　　輔系學位 (日間部在學中)
 + 高雄市立中正高級工業職業學校資訊科　高中學位
 　
 ### 2. 現任：
@@ -52,3 +67,7 @@
 + https://www.facebook.com/YingLaceook
 + https://discord.com/invite/aTMb2EBsBt
 + https://www.instagram.com/yinglnstagram_
+
+---
+
+最後更新時間：2023年02月19日 下午10時58分
