@@ -58,6 +58,7 @@
 + 2023年 猿創力程式教育學校　　　　　　　儲備講師錄取
 + 2023年 第２２屆ＭＴＥ馬來西亞國際發明展　 銀牌  
 + 2023年 第２６屆俄羅斯阿基米德國際發明展　 金牌
++ 2023年 第２６屆俄羅斯阿基米德國際發明獎　 庫班大學特別獎
 
 ### 6. 證照：
 + 2017年 TQC+ 基礎物件導向程式語言Java6 專業級 (2321170800001350)
@@ -75,11 +76,11 @@
 + kageryo@coderyo.com
 + https://twitter.com/k6dev
 + https://github.com/kageryo
++ https://coderyo.com/discord
 + https://www.linkedin.com/in/kageryo
 + https://www.facebook.com/YingLaceook
-+ https://discord.com/invite/aTMb2EBsBt
 + https://www.instagram.com/yinglnstagram_
 
 ---
 
-最後更新時間：2023年03月31日 下午08時47分
+最後更新時間：2023年04月19日 下午11時28分
