@@ -16,7 +16,8 @@
 </div>
 <p></p>
   
-![KageRyo](https://cdn.discordapp.com/attachments/845198439109492747/1142405039571345498/card.png.png)
+![image](https://github.com/KageRyo/KageRyo/assets/36478298/0d9f0962-f6d1-4e4d-b29d-e58a344b3e9a)
+
   
 ```c
 人生和 Coding 一樣，都是從
