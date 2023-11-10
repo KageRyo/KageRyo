@@ -38,6 +38,7 @@
 + 2021年~2023年 國立臺中科技大學特色躍升計畫亮點研究室　AIoT學生團隊
 + 2022年~2022年 國立臺中科技大學智慧建築與環境研究室　高教深耕計畫兼任助理暨臨時工
 + 2022年~2023年 國立臺中科技大學智慧建築與環境研究室　　副室長
++ 2023年 國立臺中科技大學智慧系統整合實驗室　專題生
 　
 ### 4. 榮譽與獎項：
 + 2015年 第１２屆宏碁數位創作獎競賽　　　　優勝
@@ -76,7 +77,7 @@
 
 ### 7. 連結：
 + kageryo@coderyo.com
-+ https://twitter.com/k6dev
++ https://x.com/k6dev
 + https://github.com/kageryo
 + https://coderyo.com/discord
 + https://kageryo.coderyo.com/
