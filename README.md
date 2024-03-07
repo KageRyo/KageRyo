@@ -34,8 +34,10 @@ print("Hello World");
 <a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
 </p>
 
+[詳細資訊](ME) [RESUME](RESUME)
+
 ## Mail K6  
 + kageryo@coderyo.com
 
 ## Buy Me a Coffee  
-<a href='https://ko-fi.com/P5P0KOCNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/P5P0KOCNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
