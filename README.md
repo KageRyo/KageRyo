@@ -34,7 +34,7 @@ print("Hello World");
 <a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
 </p>
 
-[詳細資訊](ME) [RESUME](RESUME)
+[詳細資訊](ME) [CV](CV)
 
 ## Mail K6  
 + kageryo@coderyo.com
