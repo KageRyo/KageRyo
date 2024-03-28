@@ -25,7 +25,8 @@ print("Hello World");
 開始的。
 ```
 目前是大學生一枚，有空的時候會想一些小東西來做，基本上全部都會是開源的Repo，歡迎互相交流交流 ><  
-
+- [自傳 Autobiography](Autobiography.pdf)  
+  
 ## Link K6  
 <p align="left">
 <a href="https://fb.com/yinglaceook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yinglaceook" height="30" width="40" /></a>
