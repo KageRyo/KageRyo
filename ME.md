@@ -1,6 +1,6 @@
 ## **張健勳 CHANG, CHIEN-HSUN**
 
-`Developer`, `Programmer`, and `Student`@NUTC, TAICHUNG.  
+`Developer`, `Programmer`, and `Student`@Taiwan.  
 ```
 總是會在專業領域上盡自己最大能力去協助他人，用心與堅持的毅力面對人生的每一次挑戰。
 ```
