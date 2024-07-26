@@ -1,33 +1,84 @@
 # KageRyo Developer 👨‍💻
-<h3 align="center">A Student && Developer from Taiwan</h3>  
+<h3 align="center">A Student && Developer from Taiwan 🇹🇼</h3>
+<img align="right" src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/329239350_559529172773056_5687967764856298419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Ud4uRRvzHEQ7kNvgFqvZDo&_nc_ht=scontent.ftpe3-1.fna&oh=00_AYCo77Z75LV-GFcic-KNG6M2nCPzUn-9f2uQI1VWkJse3w&oe=66A932FE" alt="KageRyo" width="300"/>
 
-**我是誰 :**
-`張健勳 CHANG, CHIEN-HSUN`   
-**想這樣叫我也可以 :**
-`影凌KageRyo` `K6` `KRyo`  
-  
+**Who am I:**
+`CHANG, CHIEN-HSUN` `張健勳`  
+**Also known as:**
+`影凌` `KageRyo` `K6` `KRyo`
+
 <div align="left">
- <a href="https://paypal.me/15LIVETW" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                /></a>
-  <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" align="center" />
+  <a href="https://paypal.me/15LIVETW" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" alt="PayPal"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/KageRyo?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KageRyo?color=green&logo=github">
+  </a>
 </div>
-<p></p>
-  
-![image](https://github.com/KageRyo/KageRyo/assets/36478298/0d9f0962-f6d1-4e4d-b29d-e58a344b3e9a)
 
-  
+## 🎓 About Me
+I'm a student from Taiwan passionate about creating open-source projects and keep learning. I love to experiment with new ideas and welcome collaboration! [CodeRyoStudio](https://github.com/CodeRyoDeveloper)
+- 📄 [My Autobiography](Autobiography.pdf)
+- 🌱 Currently learning: Always expanding my knowledge in various tech fields
+- 🔭 Working on: PAIA(Playful AI Arena), Open-source projects and personal development
+- 💼 Intern at: [PAIA-Tech 帕亞科技](https://github.com/PAIA-Playful-AI-Arena/)
+- 💬 Ask me about: Programming Education, open-source projects, and my internship experience
+- More About [ME](ME.md)
+- `I ♥️ Coding` `I ♥️ Open Source` `I ♥️ Learning` `I ♥️ Taiwan`
+
 ```c
-人生和 Coding 一樣，都是從
+Life is like coding,
+it all starts with
 print("Hello World");
-開始的。
 ```
-目前是大學生一枚，有空的時候會想一些小東西來做，基本上全部都會是開源的Repo，歡迎互相交流交流 ><  
-- [自傳 Autobiography](Autobiography.pdf)  
-  
-## Link K6  
+
+## 🛠 Skills
+
+### Programming Languages && Markup Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="visualbasic" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+</p>
+
+### Frameworks && Libraries
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/365630?s=48&v=4" alt="scikit-learn" width="40" height="40"/>
+</p>
+
+### Tools && Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
+</p>
+
+### Operating Systems
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+</p>
+
+## 🤝 Connect with Me
 <p align="left">
 <a href="https://fb.com/yinglaceook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yinglaceook" height="30" width="40" /></a>
 <a href="https://instagram.com/yinglnstagram_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yinglnstagram_" height="30" width="40" /></a>
@@ -35,10 +86,16 @@ print("Hello World");
 <a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
 </p>
 
-[詳細資訊](ME.md)
+🌐 **Website:** [https://kageryo.coderyo.com/](https://kageryo.coderyo.com/)   
+📧 **Contact:** [kageryo@coderyo.com](mailto:kageryo@coderyo.com)  
 
-## Mail K6  
-+ kageryo@coderyo.com
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://gitroll.io/profile/uuVTAC5mjetXf0iJSKlMMjusAfBW2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uuVTAC5mjetXf0iJSKlMMjusAfBW2" alt="GitRoll Profile Badge" width="50%" height="280px" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KageRyo&theme=radical" alt="Top Languages" width="40%" height="280px" align="top" />
+</p>
 
-## Buy Me a Coffee  
+## 🎉 Support My Work
 <a href='https://ko-fi.com/P5P0KOCNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>  
