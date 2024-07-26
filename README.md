@@ -1,21 +1,26 @@
 # KageRyo Developer 👨‍💻
-<h3 align="center">A Student && Developer from Taiwan 🇹🇼</h3>
-<img align="right" src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/329239350_559529172773056_5687967764856298419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Ud4uRRvzHEQ7kNvgFqvZDo&_nc_ht=scontent.ftpe3-1.fna&oh=00_AYCo77Z75LV-GFcic-KNG6M2nCPzUn-9f2uQI1VWkJse3w&oe=66A932FE" alt="KageRyo" width="200"/>
-
-**Who am I:**
-`CHANG, CHIEN-HSUN` `張健勳`  
-**Also known as:**
-`影凌` `KageRyo` `K6` `KRyo`
-
 <div align="left">
-  <a href="https://paypal.me/15LIVETW" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" alt="PayPal"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/KageRyo?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/KageRyo?color=green&logo=github">
-  </a>
+
+  <img align="right" src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/329239350_559529172773056_5687967764856298419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Ud4uRRvzHEQ7kNvgFqvZDo&_nc_ht=scontent.ftpe3-1.fna&oh=00_AYCo77Z75LV-GFcic-KNG6M2nCPzUn-9f2uQI1VWkJse3w&oe=66A932FE" alt="KageRyo" width="180"/>
+  
+  <h3>A Student && Developer from Taiwan 🇹🇼</h3>
+  
+  **Who am I:**
+  `CHANG, CHIEN-HSUN` `張健勳`  
+  **Also known as:**
+  `影凌` `KageRyo` `K6` `KRyo`
+  
+  <div>
+    <a href="https://paypal.me/15LIVETW" target="_blank">
+      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" alt="PayPal"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=KageRyo&&style=flat-square" alt="Profile views"/>
+    <a href="https://github.com/KageRyo?tab=followers">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/KageRyo?color=green&logo=github">
+    </a>
+  </div>
 </div>
+
 
 ## 🎓 About Me
 I'm a student from Taiwan passionate about creating open-source projects and keep learning. I love to experiment with new ideas and welcome collaboration! [CodeRyoStudio](https://github.com/CodeRyoDeveloper)
