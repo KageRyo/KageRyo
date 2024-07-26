@@ -97,9 +97,9 @@ print("Hello World");
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://gitroll.io/profile/uuVTAC5mjetXf0iJSKlMMjusAfBW2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uuVTAC5mjetXf0iJSKlMMjusAfBW2" alt="GitRoll Profile Badge" width="50%" height="280px" />
+    <img src="https://gitroll.io/api/badges/profiles/v1/uuVTAC5mjetXf0iJSKlMMjusAfBW2" alt="GitRoll Profile Badge" width="50%" height="250px" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KageRyo&theme=radical" alt="Top Languages" width="40%" height="280px" align="top" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KageRyo&theme=radical" alt="Top Languages" width="40%" height="250px" align="top" />
 </p>
 
 ## 🎉 Support My Work
