@@ -1,6 +1,6 @@
 # KageRyo Developer 👨‍💻
 <h3 align="center">A Student && Developer from Taiwan 🇹🇼</h3>
-<img align="right" src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/329239350_559529172773056_5687967764856298419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Ud4uRRvzHEQ7kNvgFqvZDo&_nc_ht=scontent.ftpe3-1.fna&oh=00_AYCo77Z75LV-GFcic-KNG6M2nCPzUn-9f2uQI1VWkJse3w&oe=66A932FE" alt="KageRyo" width="300"/>
+<img align="right" src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/329239350_559529172773056_5687967764856298419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Ud4uRRvzHEQ7kNvgFqvZDo&_nc_ht=scontent.ftpe3-1.fna&oh=00_AYCo77Z75LV-GFcic-KNG6M2nCPzUn-9f2uQI1VWkJse3w&oe=66A932FE" alt="KageRyo" width="200"/>
 
 **Who am I:**
 `CHANG, CHIEN-HSUN` `張健勳`  
