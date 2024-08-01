@@ -1,7 +1,7 @@
 # KageRyo Developer 👨‍💻
 <div align="left">
 
-  <img align="right" src="https://scontent.ftpe3-1.fna.fbcdn.net/v/t39.30808-6/329239350_559529172773056_5687967764856298419_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2Ud4uRRvzHEQ7kNvgFqvZDo&_nc_ht=scontent.ftpe3-1.fna&oh=00_AYCo77Z75LV-GFcic-KNG6M2nCPzUn-9f2uQI1VWkJse3w&oe=66A932FE" alt="KageRyo" width="180"/>
+  <img align="right" src="https://cdn.discordapp.com/attachments/1022346861006303242/1268404967006404639/me.jpg?ex=66ac4dad&is=66aafc2d&hm=dda889f117c374ba9ae538130d7590b2927db880bec8506aa443f7c83cc41c17&" alt="KageRyo" width="180"/>
   
   <h3>A Student && Developer from Taiwan 🇹🇼</h3>
   
