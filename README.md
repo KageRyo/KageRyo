@@ -1,7 +1,8 @@
 # KageRyo Developer 👨‍💻
 <div align="left">
 
-  <img align="right" src="https://cdn.discordapp.com/attachments/1022346861006303242/1268404967006404639/me.jpg?ex=66ac4dad&is=66aafc2d&hm=dda889f117c374ba9ae538130d7590b2927db880bec8506aa443f7c83cc41c17&" alt="KageRyo" width="180"/>
+  <img align="right" src="https://github.com/user-attachments/assets/579b1376-929b-4bc3-944a-071c69c173b7"
+ alt="KageRyo" width="180"/>
   
   <h3>A Student && Developer from Taiwan 🇹🇼</h3>
   
