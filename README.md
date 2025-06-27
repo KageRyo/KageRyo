@@ -27,9 +27,8 @@
 I'm a student from Taiwan passionate about creating open-source projects and keep learning. I love to experiment with new ideas and welcome collaboration! [CodeRyoStudio](https://github.com/CodeRyoDeveloper)
 - 📄 [My Autobiography](Autobiography.pdf)
 - 🌱 Currently learning: Always expanding my knowledge in various tech fields
-- 🔭 Working on: [PAIA(Playful AI Arena)](https://app.paia-arena.com/), Open-source projects and personal development
-- 💼 Intern at: [PAIA-Tech 帕亞科技](https://www.paia-tech.com/)
-- 💬 Ask me about: Programming Education, open-source projects, and my internship experience
+- 🔭 Working on: Open-source projects and personal development
+- 💬 Ask me about: Programming Education, open-source projects, and my internship experience(@PAIA-Tech 2024/07/01~2025/06/30)
 - More About [ME](ME.md)
 - `I ♥️ Coding` `I ♥️ Open Source` `I ♥️ Learning` `I ♥️ Taiwan`
 
