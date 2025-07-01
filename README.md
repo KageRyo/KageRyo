@@ -29,7 +29,7 @@ I'm a student from Taiwan passionate about creating open-source projects and kee
 - 🌱 Currently learning: Always expanding my knowledge in various tech fields
 - 🔭 Working on: Open-source projects and personal development
 - 💬 Ask me about: Programming Education, open-source projects, and my internship experience(@PAIA-Tech 2024/07/01~2025/06/30)
-- More About [ME](ME.md)
+- More About [ME](https://kageryo.coderyo.com/about.html)
 - `I ♥️ Coding` `I ♥️ Open Source` `I ♥️ Learning` `I ♥️ Taiwan`
 
 ```c
