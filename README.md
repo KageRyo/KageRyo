@@ -9,7 +9,7 @@
   **Who am I:**
   `CHANG, CHIEN-HSUN` `張健勳`  
   **Also known as:**
-  `影凌` `KageRyo` `K6` `KRyo`
+  `影凌` `KageRyo` `K6` `KRyo` `Ryo`  
   
   <div>
     <a href="https://paypal.me/15LIVETW" target="_blank">
@@ -28,7 +28,7 @@ I'm a student from Taiwan passionate about creating open-source projects and kee
 - 📄 [My Autobiography](Autobiography.pdf)
 - 🌱 Currently learning: Always expanding my knowledge in various tech fields
 - 🔭 Working on: Open-source projects and personal development
-- 💬 Ask me about: Programming Education, open-source projects, and my internship experience(@PAIA-Tech 2024/07/01~2025/06/30)
+- 💬 Ask me about: Life as a master's student in research, open-source projects, programming education
 - More About [ME](https://kageryo.coderyo.com/about.html)
 - `I ♥️ Coding` `I ♥️ Open Source` `I ♥️ Learning` `I ♥️ Taiwan`
 
