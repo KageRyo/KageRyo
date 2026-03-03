@@ -1,9 +1,5 @@
 # KageRyo Developer 👨‍💻
 <div align="left">
-
-  <img align="right" src="https://github.com/user-attachments/assets/579b1376-929b-4bc3-944a-071c69c173b7"
- alt="KageRyo" width="180"/>
-  
   <h3>A Student && Developer from Taiwan 🇹🇼</h3>
   
   **Who am I:**
