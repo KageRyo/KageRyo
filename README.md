@@ -36,15 +36,10 @@ print("Hello World");
 ```
 
 ## 🤝 Connect with Me
-<p align="left">
-<a href="https://fb.com/yinglaceook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yinglaceook" height="30" width="40" /></a>
-<a href="https://instagram.com/yinglnstagram_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yinglnstagram_" height="30" width="40" /></a>
-<a href="https://twitter.com/k6dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k6dev" height="30" width="40" /></a>
-<a href="https://coderyo.com/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aTMb2EBsBt" height="30" width="40" /></a>
-</p>
-
-🌐 **Website:** [https://kageryo.coderyo.com/](https://kageryo.coderyo.com/)   
-📧 **Contact:** [kageryo@coderyo.com](mailto:kageryo@coderyo.com)  
+🌐 **Website:** [https://kageryo.coderyo.com/](https://kageryo.coderyo.com/)  
+🩵 **Linkedin:** [https://www.linkedin.com/in/kageryo/](https://www.linkedin.com/in/kageryo/)  
+📬 **Contact:** [kageryo@coderyo.com](mailto:kageryo@coderyo.com)  
+🚀 **Discord:** [https://coderyo.com/discord](https://coderyo.com/discord)  
 
 ## 📊 GitHub Stats
 <p align="center">
