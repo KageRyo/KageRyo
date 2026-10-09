@@ -23,16 +23,6 @@ My main interests include **Backend / Platform Engineering, Data & ML Systems, M
 - **🖥️ Systems & Infrastructure** — Managing Linux servers, containerized services, CI/CD pipelines, monitoring, deployment environments, and infrastructure troubleshooting.
 - **📊 Data & ML Systems** — Building systems involving machine learning workflows, time-series and geospatial data, spatial databases, simulation pipelines, and digital-twin applications.
 
-## Featured Projects
-
-- **[ReleaseGuard](https://github.com/KageRyo/ReleaseGuard)** — A Rust CLI and GitHub Action for validating dataset structure, integrity, and release readiness in CI pipelines.
-- **[GridForge](https://github.com/KageRyo/GridForge)** — A Python toolkit and CLI for building reproducible spatial grids and aligning geospatial datasets. Available on [PyPI](https://pypi.org/project/gridforge-spatial/).
-- **[RyoURL](https://github.com/KageRyo/RyoURL)** — A URL shortening service built with Django Ninja, PostgreSQL, Redis, JWT authentication, and API testing.
-- **[Host Monitor](https://github.com/KageRyo/host-monitor)** — A self-hosted network monitoring dashboard for ICMP reachability, response times, uptime, and check history.
-- **[WaterMirror](https://github.com/KageRyo/WaterMirror)** — A cross-platform water quality assessment application connected to a FastAPI-based machine learning backend.
-
-Explore more projects in my [GitHub repositories](https://github.com/KageRyo?tab=repositories) or on my [personal website](https://kageryo.coderyo.com/).
-
 ## Open-Source Contributions
 
 I build and maintain open-source tools for data processing, validation, and developer workflows. I also contribute bug fixes, features, and tests to upstream projects.
