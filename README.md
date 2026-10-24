@@ -1,21 +1,21 @@
 # Hi, I'm KageRyo 👋
 
-**Chien-Hsun Chang (張健勳) · CS Master's Student · Backend & Platform Developer 🇹🇼**
+**Chien-Hsun Chang (張健勳) · CS Master's Student · Software Engineer | Systems, Platform & AI 🇹🇼**
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2027-2EA44F?style=flat-square)
 [![Website](https://img.shields.io/badge/Website-Portfolio-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://kageryo.coderyo.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kageryo/)
 [![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=flat-square)](mailto:kageryo@coderyo.com)
 
-> 💼 **Seeking 2027 opportunities** — New Grad, Pre-hire, and R&D Substitute Service (研發替代役) roles in Taiwan, as well as remote opportunities, primarily in Backend / Platform Engineering, Data & ML Systems, and MLOps.
+> 💼 **Seeking 2027 opportunities** — New Grad, Pre-hire, and R&D Substitute Service (研發替代役) roles in Taiwan, as well as remote opportunities, primarily in Software Engineering across Backend / Platform, Systems, and Data & ML Systems (MLOps).
 
 ## About Me
 
 I'm currently pursuing a Master's degree in **Computer Science and Information Engineering at National Chung Cheng University (CCU)**, Taiwan.
 
-I build **backend services, data pipelines, and infrastructure for software and ML systems**. My experience spans industry internships, research projects, Linux server administration, and open-source development.
+I build **backend services, data pipelines, and infrastructure for software and ML systems**. My experience spans industry internships, research projects, Linux server administration, open-source development, and teaching assistant roles for Software Engineering and System Programming (taught in English).
 
-My main interests include **Backend / Platform Engineering, Data & ML Systems, MLOps, and Digital Twins**.
+My main interests include **Software Engineering, Backend / Platform Engineering, Systems Software, Data & ML Systems, MLOps, and Digital Twins**.
 
 ## What I Work On
 
@@ -46,6 +46,7 @@ Other open-source tools I maintain include [LineageGuard](https://github.com/Kag
 **Languages:** Python · Rust · C / C++ · Java · SQL · JavaScript / TypeScript  
 **Backend & Data:** FastAPI · Django Ninja · REST APIs · PostgreSQL · PostGIS · Redis · Data Pipelines  
 **Infrastructure & DevOps:** Linux · Docker · Kubernetes · Helm · GitHub Actions · CI/CD · Prometheus · Grafana  
+**Embedded & Digital IC:** ESP32 · Arduino · NodeMCU · Verilog · RTL Design  
 **Testing & Automation:** Unit Testing · Integration Testing · API Testing · Automated Testing  
 **Machine Learning:** PyTorch · scikit-learn · Time-Series Modeling · Self-Supervised Learning  
 **Geospatial:** GIS · PyProj · Coordinate Systems · Spatial Data Processing  
